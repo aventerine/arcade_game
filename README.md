@@ -2,7 +2,7 @@
 
 # Getting Started:
 
-To begin, simply run index.html and the game will self initiate.
+To begin, simply run index.html and the game will start.
 
 # Gameplay
 
